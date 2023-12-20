@@ -1,6 +1,6 @@
 <h1 align="center"> 
   Hi
-  <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" 
+  <img src="https://github.com/skfawad911/skfawad911/blob/main/icons/wave.gif" 
          alt="Waving hand animated gif"         
          width="40"/>,
    I'm <b>Fawad Shaikh 😀</b>
