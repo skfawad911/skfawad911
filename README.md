@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps+Enthusiast;Always+learning+New+Things!!)](https://git.io/typing-svg)
+<center>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps+Enthusiast;Always+learning+New+Things!!)](https://git.io/typing-svg)</center>
 <!--
 **skfawad911/skfawad911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
