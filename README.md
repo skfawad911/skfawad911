@@ -1,5 +1,5 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=dhruvjaink07&color=blueviolet&style=flat-square)
-<a><img src="https://img.shields.io/github/followers/skfawad911?label=Followers&style=social" alt="GitHub Badge"></a>
+<!--![Visitor Count](https://komarev.com/ghpvc/?username=dhruvjaink07&color=blueviolet&style=flat-square) 
+<a><img src="https://img.shields.io/github/followers/skfawad911?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
 <h1 align="center"> 
   Hi
