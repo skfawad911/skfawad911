@@ -6,7 +6,7 @@
   <img src="https://github.com/skfawad911/skfawad911/blob/main/icons/wave.gif" 
          alt="Waving hand animated gif"         
          width="40"/>,
-   I'm <b>Fawad Shaikh 😀</b>
+   I'm <b>Fawad Shaikh</b>
 </h1> 
 
  
