@@ -84,12 +84,4 @@ Connect with me to unlock the secrets of efficient coding and explore the ever-e
         src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
     </img>    
 </a>
-<!-- Twitter -->
-<a 
-    target="_blank" 
-    href="https://twitter.com/FawadSh76392836">
-    <img
-        src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white">
-    </img>
-</a>
 </p>
